@@ -7,7 +7,7 @@ function formatMessage(message, maxLength){
 
     }
     else{
-        return message.slice(0, maxLeangth) +'...';
+        return message.slice(0, maxLength) +'...';
     }
 
 }
